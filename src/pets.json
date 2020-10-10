@@ -2,129 +2,129 @@
   {
     "id": 0,
     "name": "Frieda",
-    "picture": "images/scottish-terrier.jpeg",
-    "age": 3,
-    "breed": "Scottish Terrier",
+    "picture": "images/KAWS8.jpg",
+    "age": 1,
+    "breed": "Tier 1",
     "location": "Lisco, Alabama"
   },
   {
     "id": 1,
     "name": "Gina",
-    "picture": "images/scottish-terrier.jpeg",
-    "age": 3,
-    "breed": "Scottish Terrier",
+    "picture": "images/KAWS3.jpg",
+    "age": 2,
+    "breed": "Tier 1",
     "location": "Tooleville, West Virginia"
   },
   {
     "id": 2,
     "name": "Collins",
-    "picture": "images/french-bulldog.jpeg",
-    "age": 2,
-    "breed": "French Bulldog",
+    "picture": "images/KAWS6.jpg",
+    "age": 3,
+    "breed": "Tier 2",
     "location": "Freeburn, Idaho"
   },
   {
     "id": 3,
     "name": "Melissa",
-    "picture": "images/boxer.jpeg",
-    "age": 2,
-    "breed": "Boxer",
+    "picture": "images/KAWS3.jpg",
+    "age": 4,
+    "breed": "Tier 3",
     "location": "Camas, Pennsylvania"
   },
   {
     "id": 4,
     "name": "Jeanine",
-    "picture": "images/french-bulldog.jpeg",
-    "age": 2,
-    "breed": "French Bulldog",
+    "picture": "images/KAWS1.jpg",
+    "age": 5,
+    "breed": "Tier 2",
     "location": "Gerber, South Dakota"
   },
   {
     "id": 5,
     "name": "Elvia",
-    "picture": "images/french-bulldog.jpeg",
-    "age": 3,
-    "breed": "French Bulldog",
+    "picture": "images/KAWS6.jpg",
+    "age": 6,
+    "breed": "Tier 2",
     "location": "Innsbrook, Illinois"
   },
   {
     "id": 6,
     "name": "Latisha",
-    "picture": "images/golden-retriever.jpeg",
-    "age": 3,
-    "breed": "Golden Retriever",
+    "picture": "images/KAWS4.jpg",
+    "age": 7,
+    "breed": "Tier 4",
     "location": "Soudan, Louisiana"
   },
   {
     "id": 7,
     "name": "Coleman",
-    "picture": "images/golden-retriever.jpeg",
-    "age": 3,
-    "breed": "Golden Retriever",
+    "picture": "images/KAWS8.jpg",
+    "age": 8,
+    "breed": "Tier 4",
     "location": "Jacksonwald, Palau"
   },
   {
     "id": 8,
     "name": "Nichole",
-    "picture": "images/french-bulldog.jpeg",
-    "age": 2,
-    "breed": "French Bulldog",
+    "picture": "images/KAWS9.jpg",
+    "age": 9,
+    "breed": "Tier 2",
     "location": "Honolulu, Hawaii"
   },
   {
     "id": 9,
     "name": "Fran",
-    "picture": "images/boxer.jpeg",
-    "age": 3,
-    "breed": "Boxer",
+    "picture": "images/KAWS1.jpg",
+    "age": 10,
+    "breed": "Tier 3",
     "location": "Matheny, Utah"
   },
   {
     "id": 10,
     "name": "Leonor",
-    "picture": "images/boxer.jpeg",
-    "age": 2,
-    "breed": "Boxer",
+    "picture": "images/KAWS4.jpg",
+    "age": 11,
+    "breed": "Tier 3",
     "location": "Tyhee, Indiana"
   },
   {
     "id": 11,
     "name": "Dean",
-    "picture": "images/scottish-terrier.jpeg",
-    "age": 3,
-    "breed": "Scottish Terrier",
+    "picture": "images/KAWS3.jpg",
+    "age": 12,
+    "breed": "Tier 1",
     "location": "Windsor, Montana"
   },
   {
     "id": 12,
     "name": "Stevenson",
-    "picture": "images/french-bulldog.jpeg",
-    "age": 3,
-    "breed": "French Bulldog",
+    "picture": "images/KAWS9.jpg",
+    "age": 13,
+    "breed": "Tier 2",
     "location": "Kingstowne, Nevada"
   },
   {
     "id": 13,
     "name": "Kristina",
-    "picture": "images/golden-retriever.jpeg",
-    "age": 4,
-    "breed": "Golden Retriever",
+    "picture": "images/KAWS3.jpg",
+    "age": 14,
+    "breed": "Tier 4",
     "location": "Sultana, Massachusetts"
   },
   {
     "id": 14,
     "name": "Ethel",
-    "picture": "images/golden-retriever.jpeg",
-    "age": 2,
-    "breed": "Golden Retriever",
+    "picture": "images/gKAWS7.jpg",
+    "age": 15,
+    "breed": "Tier 4",
     "location": "Broadlands, Oregon"
   },
   {
     "id": 15,
     "name": "Terry",
-    "picture": "images/golden-retriever.jpeg",
-    "age": 2,
-    "breed": "Golden Retriever",
+    "picture": "images/KAWS8.jpg",
+    "age": 16,
+    "breed": "Tier 4",
     "location": "Dawn, Wisconsin"
   }
 ]
